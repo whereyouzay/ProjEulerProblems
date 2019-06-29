@@ -1,14 +1,14 @@
+Find the sum of all the primes below two million.
+
 /*
- * By Ramzi Abou Chahine (SFSU)
+ * By Ramzi A].
  * https://github.com/whereyouzay
  * 
  */
+
 package sumofprimes;
 import java.lang.Math;
-/**
- *
- * @author ramzi
- */
+
 public class SumOfPrimes {
 
     /**
