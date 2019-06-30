@@ -10,7 +10,7 @@ Find the product abc.
 package pythagoreantriplets;
 
 
-public class PythagoreanTriplets {
+public class SpecialPythagoreanTriplets_9 {
 
     /**
      * @param args the command line arguments

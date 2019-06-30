@@ -1,7 +1,7 @@
 Find the sum of all the primes below two million.
 
 /*
- * By Ramzi A].
+ * By Ramzi A.
  * https://github.com/whereyouzay
  * 
  */
@@ -9,7 +9,7 @@ Find the sum of all the primes below two million.
 package sumofprimes;
 import java.lang.Math;
 
-public class SumOfPrimes {
+public class SumOfPrimes_10 {
 
     /**
      * @param args the command line arguments

@@ -7,7 +7,7 @@ Which starting number, under one million, produces the longest chain?
  */
 package collatzsequence;
 
-public class CollatzSequence {
+public class CollatzSequence_14 {
 
     /**
      * @param args the command line arguments
